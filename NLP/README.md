@@ -42,34 +42,8 @@
     - `Word Cloud`
     - `Sentiment Pie Chart`
 ### 09.02
-#### 맥북 형태소 분석기 설치
-1. 자바 jdk 설치
-    - https://www.oracle.com/java/technologies/javase-jdk14-downloads.html (mac installer)
-2. 터미널에서 `Python 3.6` 가상환경 만들기
-    - 가상환경 만들기
-    ```
-    conda create -n py36 python=3.6
-    ```
-    - 가상환경 목록 확인
-    ```
-    conda env list
-    ```
-    - 가상환경 선택
-    ```
-    source activate py36
-    ```
-3. 터미널에서 `Konlpy` 설치
-    ```
-    pip install konlpy
-    ```
-4. 터미널에서 Homebrew 설치 (이미 설치가 되어있다면 생략)
-    ```
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)
-    ```
-5. 터미널에서 `Mecab` 언어팩 설치
-    ```
-    bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
-    ```
+#### 윈도우 형태소 분석기 설치
+https://wonyoung-ji.tistory.com/3
 #### `Konlpy` 라이브러리 호출, 선언, 실습
 ```
 # 코모란
