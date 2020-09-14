@@ -19,4 +19,4 @@ __3일차__
   
 __4일차__
   - `inner join`, `outer join`, `left join` 등 실습
-  - 2중, 3중 `join` 실습
+  - 중첩 `join` 실습
