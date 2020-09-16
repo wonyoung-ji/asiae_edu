@@ -26,5 +26,8 @@
   - 이를 통해 시장에 반영된 마케팅 기준선을 부여한다.
   __3. 캔들차트__
   ![](https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/2x51/image/p85QlzWxuyyLBzQm-hb027P9B0M.png)
+  - 양봉, 음봉, 망치형, 역망치형, doji형
+    + doji형: 매수 매도가 탄탄한 경우. 보유 or 관망 추천
+
 
 
