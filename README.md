@@ -29,12 +29,12 @@
   - __NLP__
     - 2020.08.29 ~ 2020.09.11
     - 사용툴: `jupyter notebook`, `Google Colab`
-    - Mecab, Kkma, Komoran 등 다양한 한글 형태소 분석기 사용
+    - `Mecab`, `Kkma`, `Komoran` 등 다양한 한글 형태소 분석기 사용
     - 토큰화, 정규화, 불용어처리, 패딩, 인코딩 등 텍스트 전처리 수행
-    - SLM, N-gram 등을 사용한 언어모델링
-    - BoW, DTM, TDM, TF-IDF를 사용하여 카운트 기반의 단어 표현 실습
-    - 잠재의미분석(LSA), 잠재디리클레할당(LDA) 등을 활용한 토픽 모델링
-    - RNN, LSTM을 사용하여 postagging, NER 작업 후 텍스트 분류
+    - `SLM`, `N-gram` 등을 사용한 언어모델링
+    - `BoW`, `DTM`, `TDM`, `TF-IDF`를 사용하여 카운트 기반의 단어 표현 실습
+    - 잠재의미분석(`LSA`), 잠재디리클레할당(`LDA`) 등을 활용한 토픽 모델링
+    - `RNN`, `LSTM`을 사용하여 postagging, NER, 텍스트 분류
       + 스팸 분류하기, 네이버영화평 감정 분류, 나이브 베이지안 분류 실습
  
 
