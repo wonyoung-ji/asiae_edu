@@ -2,7 +2,7 @@
 
 ### 과정 소개
   - 기간: 2020.07.27 ~ 2020.10.26
-  - 커리큘럼 간략 소개
+  - 커리큘럼 소개
 ![image](https://modo-phinf.pstatic.net/20200420_105/1587346729900Hfj7J_JPEG/mosaiISegt.jpeg)
 
 ## 내용 아카이빙
