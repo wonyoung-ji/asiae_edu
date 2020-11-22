@@ -46,4 +46,5 @@
     - 2020.09.28 ~ 2020.10.16
     - 사용툴: `colab`, `PowerBI`
     - KDX 유통·소비데이터 분석 & 시각화경진대회
+    - [프로젝트 내용으로 이동](https://github.com/wonyoung-ji/project/tree/master/Post-Corona%20Consumption%20Trend%20Insights%20Analysis%20Based%20on%20Big%20Data)
     - 결과: 장려상 수상 (4등)
